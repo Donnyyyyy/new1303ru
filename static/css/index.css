@@ -1,0 +1,9 @@
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.top-logo{
+    width: 156px;
+    height: 156px;
+}
