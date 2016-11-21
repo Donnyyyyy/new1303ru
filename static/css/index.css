@@ -20,3 +20,8 @@
     height: 540px;
     width: 960px;
 }
+
+.sticky {
+    position: fixed;
+    top: 0;
+}
