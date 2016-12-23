@@ -7,6 +7,14 @@ header {
 	color: white;
 }
 
+.nav-item {
+  transition: 0.3s ease;
+}
+
+.nav-item:hover {
+	color: #ff6f00;
+}
+
 .navbar-brand, .navbar-brand:focus, .navbar-brand:hover {
 	color: inherit;
 	font-size: 1.95em;
@@ -41,7 +49,7 @@ a:hover {
 
 .impression-background {
 	background: url('background.svg') no-repeat;
-	background-size: cover;
+	background-size: 110%;
 }
 
 .navbar {
