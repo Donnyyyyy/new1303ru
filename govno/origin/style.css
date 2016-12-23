@@ -1,0 +1,192 @@
+body {
+	padding: 0;
+}
+
+header {
+	background-color: #2C3E50;
+	color: white;
+}
+
+.nav-item {
+  transition: 0.3s ease;
+}
+
+.nav-item:hover {
+	color: #ff6f00;
+}
+
+.navbar-brand, .navbar-brand:focus, .navbar-brand:hover {
+	color: inherit;
+	font-size: 1.95em;
+}
+
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+a:hover {
+	color: inherit;
+}
+
+.navbar-nav li a {
+	color: inherit;
+	font-size: 1.2em;
+}
+
+.navbar-nav li a:hover, .navbar-nav li a:focus {
+	background-color: inherit;
+}
+
+.eng-language {
+	width: 2em;
+}
+
+.impression {
+	background-color: #2980B9;
+	text-align: center;
+	background-size:
+}
+
+.impression-background {
+	background: url('background.svg') no-repeat;
+	background-size: 110%;
+}
+
+.navbar {
+	margin: 0;
+}
+
+.impression-logo {
+	height: 23em;
+	margin-top: 2em;
+}
+
+.propaganda {
+	color: white;
+	font-weight: 200;
+	font-size: 2em;
+	width: 30em;
+	margin: 1em auto;
+}
+
+.user-button {
+	background-color: #E74C3C;
+	border: none;
+	color: white;
+	font-size: 2em;
+	padding: 0.2em 0.7em;
+	width: 9em;
+}
+
+.user-select {
+	margin-bottom: 2em;
+}
+
+.directions {
+	display: flex;
+	width: 45em;
+	margin: auto;
+	justify-content: space-around;
+	margin-bottom: 1em;
+}
+
+.direction img {
+	height: 6em;
+}
+
+.direction h4 {
+	color: white;
+	font-size: 1.3em;
+}
+
+.topic-element img {
+	height: 23em;
+}
+
+.topic-element {
+	width: 45%;
+	text-align: center;
+}
+
+.topic {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row-reverse;
+}
+
+.topic-sp:nth-child(4n+1) .topic{
+	flex-direction: row;
+}
+
+.topics {
+	margin: 2em 0;
+}
+
+.topic-element h2 {
+	font-weight: 500;
+	border-bottom: solid 1px lightgray;
+	padding: 0.3em 0;
+}
+
+.topic-border {
+	width: 100%;
+	border: solid 1px lightgray;
+	margin: 1em 0;
+}
+
+.topic-element h4 {
+	margin-top: 1.3em;
+}
+
+footer {
+	background-color: #2C3E50;
+	color: white;
+	text-align: center;
+	padding: 1em 0;
+}
+
+footer h4 {
+	margin: 0;
+	font-size: 1.15em;
+}
+
+.separate-block {
+	background-color: #2980B9;
+}
+
+.separate-inner h2 {
+	color: white;	
+}
+
+.separate-inner {
+	text-align: center;	
+}
+
+.persents {
+	display: flex;
+	justify-content: space-around;
+	margin: 1em 0;
+}
+
+.persent img {
+	height: 9em;
+	width: 9em;
+	border-radius: 200em;
+	padding: 1em;
+	background-color: white;
+}
+
+.persent h4, h3 {
+	color: white;
+	margin-bottom: -0.3em;
+}
+
+.center {
+	text-align: center;
+}
+
+.map {
+	height: 481px;
+	width: 767px;
+	padding: 0;
+}
