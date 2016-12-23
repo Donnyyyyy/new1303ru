@@ -176,3 +176,9 @@ footer h4 {
 .center {
 	text-align: center;
 }
+
+.map {
+	height: 481px;
+	width: 767px;
+	padding: 0;
+}
