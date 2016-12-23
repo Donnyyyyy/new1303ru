@@ -1,3 +1,6 @@
-/**/__pycache
+/**/__pycache__
 ./vscode
 /**/*.pyc
+db.sqllite
+home/__pycache__
+new1303ru/__pycache__
